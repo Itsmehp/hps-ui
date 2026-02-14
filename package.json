@@ -1,0 +1,26 @@
+{
+  "name": "hps-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "ui",
+    "components",
+    "cli",
+    "react"
+  ],
+  "author": "",
+  "license": "MIT",
+  "description": "Reusable UI components with a simple CLI",
+  "devDependencies": {
+    "@types/node": "^25.2.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "bin": {
+    "hps-ui": "./dist/index.js"
+  }
+}
