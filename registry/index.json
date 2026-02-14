@@ -1,0 +1,9 @@
+{
+	"components": [
+		{
+			"name": "navbar-01",
+			"group": "navbar",
+			"path": "registry/ui/navbar/navbar-01.tsx"
+		}
+	]
+}
